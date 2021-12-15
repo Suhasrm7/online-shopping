@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/online-shopping/static/css/main.77a9202d.chunk.css",
+    "main.js": "/online-shopping/static/js/main.5e6d1995.chunk.js",
+    "main.js.map": "/online-shopping/static/js/main.5e6d1995.chunk.js.map",
+    "runtime-main.js": "/online-shopping/static/js/runtime-main.396a6461.js",
+    "runtime-main.js.map": "/online-shopping/static/js/runtime-main.396a6461.js.map",
+    "static/css/2.f1ff67ce.chunk.css": "/online-shopping/static/css/2.f1ff67ce.chunk.css",
+    "static/js/2.d6ac3fa6.chunk.js": "/online-shopping/static/js/2.d6ac3fa6.chunk.js",
+    "static/js/2.d6ac3fa6.chunk.js.map": "/online-shopping/static/js/2.d6ac3fa6.chunk.js.map",
+    "static/js/3.aaf2505a.chunk.js": "/online-shopping/static/js/3.aaf2505a.chunk.js",
+    "static/js/3.aaf2505a.chunk.js.map": "/online-shopping/static/js/3.aaf2505a.chunk.js.map",
+    "index.html": "/online-shopping/index.html",
+    "static/css/2.f1ff67ce.chunk.css.map": "/online-shopping/static/css/2.f1ff67ce.chunk.css.map",
+    "static/css/main.77a9202d.chunk.css.map": "/online-shopping/static/css/main.77a9202d.chunk.css.map",
+    "static/js/2.d6ac3fa6.chunk.js.LICENSE.txt": "/online-shopping/static/js/2.d6ac3fa6.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/online-shopping/static/media/Shopping_home.1c484de3.jpg",
+    "static/media/all.css": "/online-shopping/static/media/fa-solid-900.eeccf4f6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.396a6461.js",
+    "static/css/2.f1ff67ce.chunk.css",
+    "static/js/2.d6ac3fa6.chunk.js",
+    "static/css/main.77a9202d.chunk.css",
+    "static/js/main.5e6d1995.chunk.js"
+  ]
+}
